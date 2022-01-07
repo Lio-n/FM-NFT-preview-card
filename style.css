@@ -78,6 +78,7 @@ body {
 }
 .descrip__title {
   /* box model */
+  display: inline-flex;
   margin-bottom: 1rem;
   /* typography */
   font-size: 24px;
