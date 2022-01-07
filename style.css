@@ -84,6 +84,7 @@ body {
   font-weight: 600;
   /* visual */
   color: var(--White);
+  cursor: pointer;
 }
 .descrip__title:hover {
   color: var(--Cyan);
